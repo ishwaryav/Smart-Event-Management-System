@@ -7,4 +7,7 @@ It uses MySQL Database as its data model to store and retrieve users and event i
 The application is also hosted on AWS EC2 instances to achieve scalability and load balancers help regulate requests to different instances based on the load on the server.
 AWS Simple Notification Services has been implemented to automatically notify registerd users of any new or modified events.
 
+                                                          
+                                                          Architecture 
 
+![alt text](https://github.com/ishwaryav/Smart-Event-Management-System/blob/master/Reports/Architecture_281.PNG)
